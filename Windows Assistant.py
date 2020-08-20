@@ -1,8 +1,8 @@
 import pyttsx3
 import os
 
-#pyttsx3.speak("Welcome to Windows Tools!")
-#pyttsx3.speak("Myself Win Assistant!")
+pyttsx3.speak("Welcome to Windows Tools!")
+pyttsx3.speak("Myself Win Assistant!")
 
 options_list=["Basic Windows Apps List:" , "1.Browser(Chrome,Edge,Firefox,etc)" , "2.Windows Media Player" , "3.ShutDown or Restart the Computer" , "4.Open Snipping Tool" , "5.Control Panel" , "6.Command Prompt" , "7.Calcultor" , "8.PowerShell" , "9.Screen Magnifier" , "10.Narrator" , "11.On Screen KeyBoard" , "12.Microsoft Paint" , "13.Computer Management" , "14.Task Manager" , "15.Unziper(WinRAR,7zip,etc)"]
 
